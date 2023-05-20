@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Car Rush</string>
+    <string name="high_score">High Score</string>
+    <string name="play">Play</string>
+    <string name="car_rush">Car Rush</string>
+    <string name="todo">TODO</string>
+</resources>
